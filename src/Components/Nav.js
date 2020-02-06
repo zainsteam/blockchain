@@ -31,7 +31,9 @@ function NavB() {
             <Link to="/Login">
               <Nav.Link href="#link">Log-in</Nav.Link>
               </Link>
+              <Link to="/Register">
               <Nav.Link href="#link">Register</Nav.Link>
+              </Link>
             </Nav>
             {/* <FormControl type="text" placeholder="Search" className="mr-sm-2" />
             <Button variant="outline-success">Search</Button> */}
