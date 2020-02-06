@@ -1,6 +1,10 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-import {Container,Navbar,NavDropdown,Form,FormControl,Button,Nav} from 'react-bootstrap';
+import {Container,
+  Navbar,
+  NavDropdown,
+  Form,
+  Nav} from 'react-bootstrap';
 
 function NavB() {
   return (
